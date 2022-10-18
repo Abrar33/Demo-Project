@@ -48,7 +48,7 @@ export default function Rightbar (){
             />
           </ImageListItem>
           <ImageListItem>
-            <img src='/images/Person4.jpg'
+            <img src='/images/Person3.jpg'
             alt=""       />
           </ImageListItem>
         </ImageList>
